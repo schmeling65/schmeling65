@@ -33,7 +33,7 @@
 - Testing of [Unfair XXL](https://youtu.be/JCD1AaEYK3E), a mod for Asterix & Obelix XXL
 - Testing of [Randomizer](https://youtu.be/0BQS6CCgWNE), a mod for Asterix & Obelix XXL
 - Testing of [Beta-Rome](https://youtu.be/xOE2KkBZ3Wg), a mod and continuation of Asterix & Obelix XXL
-- Tiny Input-Overlay for Streams written in C#
+- [Input-Overlay](https://github.com/schmeling65/Simple-C--Input-Overlay) for Streams written in C#
 
 ### 🕔 Past Projects
 
